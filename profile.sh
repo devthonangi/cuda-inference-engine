@@ -18,3 +18,13 @@ echo "Profile complete!"
 echo "Output file: ${OUT_NAME}.qdrep"
 echo "Open in Nsight Systems GUI or convert to report:"
 echo "nsys stats ${OUT_NAME}.qdrep"
+
+
+#Make it executable:
+
+#chmod +x profile.sh
+
+
+#Run it:
+
+#./profile.sh ./build/cuda_inference_engine orin_profile
