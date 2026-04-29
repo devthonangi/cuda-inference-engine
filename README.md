@@ -1,4 +1,4 @@
-# CUDA-Accelerated Deep Learning Inference Engine
+# Real-time inference engine for image and video processing 
 
 This project implements a high-performance inference engine using **C++**, **CUDA**, **TensorRT**, and **cuBLAS** for **NVIDIA Jetson** platforms.
 
